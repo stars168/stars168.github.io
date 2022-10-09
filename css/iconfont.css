@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3691792 */
-  src: url('//at.alicdn.com/t/c/font_3691792_7is5tocoj24.woff2?t=1665278105940') format('woff2'),
-       url('//at.alicdn.com/t/c/font_3691792_7is5tocoj24.woff?t=1665278105940') format('woff'),
-       url('//at.alicdn.com/t/c/font_3691792_7is5tocoj24.ttf?t=1665278105940') format('truetype');
+  src: url('//at.alicdn.com/t/c/font_3691792_zq71occui7.woff2?t=1665284649731') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3691792_zq71occui7.woff?t=1665284649731') format('woff'),
+       url('//at.alicdn.com/t/c/font_3691792_zq71occui7.ttf?t=1665284649731') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,30 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-liuyanjianyi:before {
+  content: "\e62c";
+}
+
+.icon-liuyanfill:before {
+  content: "\e743";
+}
+
+.icon-liuyan:before {
+  content: "\e638";
+}
+
+.icon-liuyan1:before {
+  content: "\e606";
+}
+
+.icon-liuyan2:before {
+  content: "\e60a";
+}
+
+.icon-B-liuyan:before {
+  content: "\e729";
 }
 
 .icon-gedan:before {
